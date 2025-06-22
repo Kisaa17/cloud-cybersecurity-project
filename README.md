@@ -2,7 +2,9 @@
 
 This Terraform project creates a secure AWS infrastructure with a VPC containing public and private subnets, EC2 instances, and proper security groups. The public instance runs Ubuntu with comprehensive cybersecurity and penetration testing tools from Kali Linux.
 
-## Architecture Overview
+## 📌 Architecture Overview
+
+![AWS Cybersecurity Infrastructure with Terraform](./assets/diagram.png)
 
 The infrastructure consists of:
 
